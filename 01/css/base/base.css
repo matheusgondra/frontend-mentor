@@ -1,0 +1,14 @@
+body {
+    background-color: var(--c-cream);
+    font-family: var(--f-montserrat);
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+img {
+    width: 100%;
+}
